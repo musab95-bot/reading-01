@@ -1,7 +1,7 @@
 I added a second large heading by using 
 
 ## The second-largest heading
-then I used an Italic style for a first paragraph by using **
+**then I used an Italic style for a first paragraph by using **
 
 The mindset which is the state of being is an important thing when learning anything new. The main attribute of the growth mindset that it depends of effort despite the intelligence level and the most important aspect is the passion to learn.
 
@@ -12,9 +12,9 @@ On the other hand, fixed learning is about depending only on the intelligence of
 then I creat a list by adding to each point -
 To keep myself in growth mindset, I shouldhave 
 
--passion to continue working and searching to learn as much as I can.
--do not compare myself with others, but trying to eliminate them and improving what I get.
--be open to all suggestions and critiques as a method to know where I have shortcomings and mistakes.
+1-passion to continue working and searching to learn as much as I can.
+2-do not compare myself with others, but trying to eliminate them and improving what I get.
+3-be open to all suggestions and critiques as a method to know where I have shortcomings and mistakes.
 
 I used an emogi also :+1:
 and finally I added a link which contains a quotation by using [] to write the name of the link and in () 
