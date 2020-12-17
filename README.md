@@ -1,6 +1,7 @@
 I added a second large heading by using 
 
 ## The second-largest heading
+
 **then I used an Italic style for a first paragraph by using **
 
 The mindset which is the state of being is an important thing when learning anything new. The main attribute of the growth mindset that it depends of effort despite the intelligence level and the most important aspect is the passion to learn.
